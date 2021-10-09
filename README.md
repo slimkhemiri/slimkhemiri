@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slim</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate fullstack developer from Tunisia [Loading...] :D </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
