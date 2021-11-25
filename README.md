@@ -15,9 +15,9 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 -->
  📊 𝙼𝚢 GitHub Stats:
-<!--START_SECTION:stats-->
-<!-- <a href="https://github.com/slimkhemiri"> -->
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&langs_count=8&theme=radical" /> -->
+START_SECTION:stats
+<a href="https://github.com/slimkhemiri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&langs_count=8&theme=radical" />
 <!-- </a>
 <a href="https://github.com/slimkhemiri">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=slimkhemiri&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical" alt="My github stats" />
@@ -41,7 +41,7 @@
 
 </details>
 </div>
-<!--END_SECTION:stats-->
+END_SECTION:stats
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
