@@ -27,11 +27,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimkhemiri" alt="slimkhemiri" /></a> </p>
 
 <div align="center">
-<details>
 
-<summary>
+
+
   📊 𝙼𝚢 GitHub Stats
-</summary>
+
 
 <br >
 
@@ -39,7 +39,7 @@
 
   ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&theme=blue-green)
 
-</details>
+
 </div>
 <!-- END_SECTION:stats -->
 
