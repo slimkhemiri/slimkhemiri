@@ -14,7 +14,7 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 -->
- 📊 𝙼𝚢 GitHub Stats:
+ <h1 align="center">📊 𝙼𝚢 GitHub Stats:</h1>
 <!-- START_SECTION:stats -->
 <!-- <a href="https://github.com/slimkhemiri"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&langs_count=8&theme=radical" /> -->
@@ -29,15 +29,9 @@
 <div align="center">
 
 
+  ![Slim's github stats](https://github-readme-stats.vercel.app/api?username=slimkhemiri&count_private=true&theme=blue-green&hide=contribs,prs)
 
-  📊 𝙼𝚢 GitHub Stats
-
-
-<br >
-
-  ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=slimkhemiri&count_private=true&theme=blue-green&hide=contribs,prs)
-
-  ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&theme=blue-green)
+  ![Slim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&theme=blue-green)
 
 
 </div>
