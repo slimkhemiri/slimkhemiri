@@ -6,7 +6,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web developer
 - 🌐 Worked before as a Banker at ATB Bank Headquarters .
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 <!--## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://github.com/Raymo111/drracket-customization) 𝚊𝚗𝚍 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji)
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚎𝚗𝚑𝚊𝚗𝚌𝚎𝚖𝚎𝚗𝚝𝚜, 𝚝𝚑𝚒𝚜 𝚁𝙴𝙰𝙳𝙼𝙴, 𝚊𝚗𝚍 𝚖𝚢 𝙺𝚊𝚑𝚘𝚘𝚝 𝙱𝚘𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
@@ -14,7 +14,8 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 -->
- <h1 align="center">📊 𝙼𝚢 GitHub Stats:</h1>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ <h2 align="center">📊 𝙼𝚢 GitHub Stats:</h2>
 <!-- START_SECTION:stats -->
 <!-- <a href="https://github.com/slimkhemiri"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&langs_count=8&theme=radical" /> -->
