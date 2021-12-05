@@ -1,5 +1,5 @@
 <!-- <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="center" width="100%" alt="👋 Hi there! I'm Slim Khemiri" title="👋 Hi there! I'm Slim Khemiri "/> -->
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)-->
 
