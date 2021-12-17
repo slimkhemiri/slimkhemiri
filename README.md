@@ -28,7 +28,7 @@
 </a>  
 
 
-<div align="center">
+<div>
 
 
   ![Slim's github stats](https://github-readme-stats.vercel.app/api?username=slimkhemiri&count_private=true&theme=blue-green&hide=contribs,prs)
