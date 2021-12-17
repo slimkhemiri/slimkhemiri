@@ -1,5 +1,5 @@
 <!-- <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="center" width="100%" alt="👋 Hi there! I'm Slim Khemiri" title="👋 Hi there! I'm Slim Khemiri "/> -->
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)-->
 
@@ -16,7 +16,7 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 -->
 
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <!-- START_SECTION:stats -->
  <a href="https://github.com/slimkhemiri"> 
  <h2 align="center">📊 𝙼𝚢 GitHub Stats:</h2>
