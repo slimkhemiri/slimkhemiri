@@ -16,15 +16,15 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 -->
 
- <h2 align="center">📊 𝙼𝚢 GitHub Stats:</h2>
+
 <!-- START_SECTION:stats -->
-<!-- <a href="https://github.com/slimkhemiri"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&langs_count=8&theme=radical" /> -->
-<!-- </a>
+ <a href="https://github.com/slimkhemiri"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&langs_count=8&theme=radical" /> 
+ </a>
 <a href="https://github.com/slimkhemiri">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=slimkhemiri&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical" alt="My github stats" />
-</a>  -->
-
+</a>  
+ <h2 align="center">📊 𝙼𝚢 GitHub Stats:</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimkhemiri" alt="slimkhemiri" /></a> </p>
 
