@@ -27,12 +27,8 @@
 
 <div>
 
-
   ![Slim's github stats](https://github-readme-stats.vercel.app/api?username=slimkhemiri&count_private=true&theme=blue-green&hide=contribs,prs)
-
   ![Slim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&theme=blue-green)
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimkhemiri" alt="slimkhemiri" /></a> </p>
 </div>
 <!-- END_SECTION:stats -->
