@@ -6,9 +6,9 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
- - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web Developer 
+  🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web Developer 
  
- -🎯 Amazon Web Services(A.W.S) Certified
+ 🎯 Amazon Web Services(A.W.S) Certified
 <!-- ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 some FreeLance Projects to help me to improve my technical skills.
 - 🎯 𝙸 started studying Amazon Web Services (A.W.S). -->
