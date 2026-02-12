@@ -15,23 +15,7 @@
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<!-- START_SECTION:stats -->
- <a href="https://github.com/slimkhemiri"> 
- <h2 align="center">📊 𝙼𝚢 GitHub Stats:</h2>
-	
- 
- </a>
-<a href="https://github.com/slimkhemiri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slimkhemiri&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical" alt="My github stats" />
-</a>  
 
-
-<div>
-
-  ![Slim's github stats](https://github-readme-stats.vercel.app/api?username=slimkhemiri&count_private=true&theme=blue-green&hide=contribs,prs)
-  ![Slim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slimkhemiri&theme=blue-green)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimkhemiri" alt="slimkhemiri" /></a> </p>
-</div>
 <!-- END_SECTION:stats -->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
